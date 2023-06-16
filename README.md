@@ -1,3 +1,3 @@
 # Nutripal APK
 
-This is the apk for Nutripal android mobile application.
+This is the repository to store Nutripal android mobile application.
